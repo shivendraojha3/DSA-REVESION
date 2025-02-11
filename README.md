@@ -73,7 +73,7 @@ For any queries or discussions, reach out at:
 
 # Multi-line string containing the complete list of 841 DSA questions.
 # (Each topic has been covered with a minimum number of questions as requested.)
-content = r"""DSA Question Bank (841 Questions)
+content = DSA Question Bank (841 Questions)
 --------------------------------------------------
 
 
